@@ -8,24 +8,4 @@ In this project, let's build a **Registration Form** by applying the concepts we
 </div>
 <br/>
 
-### Design Files
 
-<details>
-<summary>Click to view</summary>
-
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/registration-form-sm-outputs.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Registration](https://assets.ccbp.in/frontend/content/react-js/registration-form-lg-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Registration Error](https://assets.ccbp.in/frontend/content/react-js/registration-form-lg-error-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Registration Success](https://assets.ccbp.in/frontend/content/react-js/registration-form-lg-success-output-v2.png)
-
-</details>
-
-### Set Up Instructions
-
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
